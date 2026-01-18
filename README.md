@@ -79,24 +79,24 @@ To enable Cloud Sync features:
 ## 🛠️ Technology Stack
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ibb.co/zTCd8qdf/Typescript.png" width="172" alt="Visit the official TypeScript website">
+  <img src="https://i.ibb.co/zTCd8qdf/Typescript.png" width="124" alt="Visit the official TypeScript website">
 </a>
 
 
 <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ibb.co/ksdVWYFK/React.png" width="172" alt="Visit the official ReactJS website">
+  <img src="https://i.ibb.co/ksdVWYFK/React.png" width="124" alt="Visit the official ReactJS website">
 </a>
 
 <a href="https://tauri.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ibb.co/Rp7M7WGB/Tauri.png" width="172" alt="Visit the official Tauri website">
+  <img src="https://i.ibb.co/Rp7M7WGB/Tauri.png" width="124" alt="Visit the official Tauri website">
 </a>
 
 <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ibb.co/vCwM4BfD/Supabase.png" width="172" alt="Visit the official Supabase website">
+  <img src="https://i.ibb.co/vCwM4BfD/Supabase.png" width="124" alt="Visit the official Supabase website">
 </a>
 
 <a href="https://mpv.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ibb.co/hJj7Yg4w/mpv.png" width="172 alt="Visit the official MPV website">
+  <img src="https://i.ibb.co/hJj7Yg4w/mpv.png" width="124" alt="Visit the official MPV website">
 </a>
 
 
