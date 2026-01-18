@@ -46,14 +46,8 @@ Make it yours. MediaHoard features a professional-grade theming engine that goes
 
 ## 🚀 Getting Started
 
-### Prerequisites
--   **Node.js** (v16 or higher)
--   **npm** or **yarn**
-
-### Installation
-
+### 💾 Installation
 **Windows Installer coming soon**
-
 
 ### 🌩️ Setting Up Cloud Sync (Supabase)
 To enable Cloud Sync features:
@@ -61,9 +55,7 @@ To enable Cloud Sync features:
 2.  Follow steps within "SUPABASESETUP.md" .
 5.  Create an account or login to start syncing!
 
----
-
-## 🧭 Navigation Guide
+### 🧭 Navigation Guide
 
 *   **🏠 Home**: Your personalized dashboard with configured rows.
 *   **🧭 Discover**: Browse catalogs from your installed addons with deep filtering.
