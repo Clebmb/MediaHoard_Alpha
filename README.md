@@ -63,6 +63,17 @@ To enable Cloud Sync features:
 
 ---
 
+## 🧭 Navigation Guide
+
+*   **🏠 Home**: Your personalized dashboard with configured rows.
+*   **🧭 Discover**: Browse catalogs from your installed addons with deep filtering.
+*   **🎬 Movies / 📺 Shows**: Dedicated views for specific media types.
+*   **📚 Library**: Your saved content.
+*   **🧩 Addons**: Manage, install, and reorder your metadata providers.
+*   **⚙️ Settings**: Cloud setup, Theming, and Interface toggles.
+
+---
+
 ## 💡 Planned Features
 
 * **Live TV**: Watch live TV! Integrated linear television streaming from .m3u files and web sources.
@@ -98,18 +109,6 @@ To enable Cloud Sync features:
 <a href="https://mpv.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ibb.co/hJj7Yg4w/mpv.png" width="124" alt="Visit the official MPV website">
 </a>
-
-
----
-
-## 🧭 Navigation Guide
-
-*   **🏠 Home**: Your personalized dashboard with configured rows.
-*   **🧭 Discover**: Browse catalogs from your installed addons with deep filtering.
-*   **🎬 Movies / 📺 Shows**: Dedicated views for specific media types.
-*   **📚 Library**: Your saved content.
-*   **🧩 Addons**: Manage, install, and reorder your metadata providers.
-*   **⚙️ Settings**: Cloud setup, Theming, and Interface toggles.
 
 ---
 
