@@ -6,7 +6,7 @@
 
 Meant to be a more customizable alternative to Stremio, **MediaHoard** is a powerful, addon-based media discovery and organization platform built with modern web technologies. It aggregates metadata from various sources into a single, beautiful, and highly customizable interface. Designed for "Data Hoarders" and media enthusiasts, it puts *you* in control of how you browse, organize, and view your content.
 
-![MediaHoard Example](https://i.ibb.co/nMJvmY5g/ex-modified.png))
+![MediaHoard Example](https://i.ibb.co/nMJvmY5g/ex-modified.png)
 
 ---
 
